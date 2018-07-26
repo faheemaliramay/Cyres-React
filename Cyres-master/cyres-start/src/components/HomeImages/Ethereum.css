@@ -1,0 +1,12 @@
+.Ethereum{
+    height: 150px;
+    width: 300px;
+  margin-bottom: 40;
+  margin-top: 40px;
+    padding:4px;
+}
+.Ethereum:hover{
+     border: 2px solid rgb(242, 185, 64);
+opacity: 0.5;
+    filter: alpha(opacity=50);
+}

@@ -1,0 +1,11 @@
+.Logo {
+    margin: 30px;
+    padding: 10px;
+    height: 80px;
+    text-align: left;
+}
+.Logo img {
+    height: 100%;
+    width: 200px;
+    align-items: center;
+}

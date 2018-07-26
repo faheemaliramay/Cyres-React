@@ -1,0 +1,62 @@
+.body {
+    background-color:white;
+    color: black;
+    text-align: left; 
+    /* margin-left: 40px; */
+    padding-top:0.5px;
+}
+.main{
+    width: 98%;
+    margin-left:10px; 
+}
+.top {
+    margin-top:10px; 
+}
+.jumbo1 {
+    background-color: white;
+    border: 1px solid lightgray;
+}
+.jumbo2 {
+    background-color: white;
+    border: 1px solid lightgray;
+    height: 597px;
+}
+.head {
+    background-color: lightgray;
+    height: 30px;
+}
+.awain {
+    margin-top: 100px;
+}
+.internal {
+    width: 95%;
+    float: center;
+    margin-left:10px; 
+}
+.marg{
+    margin-top: -30px;
+}
+.address {
+    background-color: white;
+    border: 1px solid lightgray;
+    height: 80px;
+}
+.button1 {
+    background-color: white;
+    color: gray;
+    border: 2px solid lightgray;
+    height: 40px;
+    float: right;
+}
+.button1:hover {
+    background-color: gray;
+    color: white;
+}
+.para {
+    color: gray;
+    margin-left: 5px;
+}
+.viewall {
+    float: right;
+    margin-right: 5px;
+}

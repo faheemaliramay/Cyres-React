@@ -1,0 +1,12 @@
+.Bit{
+    
+margin-bottom: 40px;
+margin-top: 40px;
+margin-left: 100px;
+   
+}
+.Bit:hover{
+    border: 2px solid rgb(242, 185, 64);
+opacity: 0.5;
+    filter: alpha(opacity=50);
+}

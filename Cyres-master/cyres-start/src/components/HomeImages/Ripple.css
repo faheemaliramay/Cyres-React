@@ -1,0 +1,14 @@
+.Ripple{
+   
+     height: 150px;
+    width: 300px;
+    padding:4px;
+   margin-bottom: 40px;
+   margin-top: 40px;
+ 
+}
+.Ripple:hover{
+      border: 2px solid rgb(242, 185, 64);
+opacity: 0.5;
+    filter: alpha(opacity=50);
+}
